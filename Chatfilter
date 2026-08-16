@@ -209,9 +209,9 @@ trade.*?accepted.*?with.*?for
 [ãñõÃÑØøÕ]
 [äëïöüÿÄËÏÖÜŸ]
 [ÐæÆœŒçÇß«»°·]
-(?i)You strike a clean cut without gathering any material.
-(?i)You consume a Forester's ration to fuel a mighty chop.
-(?i)Some yew leaves fall to the ground and you place them into your Forestry kit.
-(?i)You have a sneaking suspicion that you would have received a beginner scroll box.
-(?i)You swing your axe at the tree.
-(?i)You clean the Grimy ranarr weed.
+You strike a clean cut without gathering any material.
+You consume a Forester's ration to fuel a mighty chop.
+Some yew leaves fall to the ground and you place them into your Forestry kit.
+You have a sneaking suspicion that you would have received a beginner scroll box.
+You swing your axe at the tree.
+You clean the Grimy ranarr weed.
