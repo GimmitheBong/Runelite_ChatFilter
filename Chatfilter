@@ -187,6 +187,9 @@ trade.*?accepted.*?with.*?for
 (?i)(i|l)ceart(00|OO)7
 (?i)rushgp
 (?i)safegp
+(?i)zoomgp
+(?i)ultragp
+(?i)Discord··gg
 
 (?i)warning.*?is.*?a.*?hacker.*?do.*?not.*?add.*?him
 (?i).*?will.*?try.*?send.*?you.*?virus.*?over.*?discord
@@ -205,4 +208,10 @@ trade.*?accepted.*?with.*?for
 [âêîôûÂÊÎÔÛ]
 [ãñõÃÑØøÕ]
 [äëïöüÿÄËÏÖÜŸ]
-[ÐæÆœŒçÇß«»°]
+[ÐæÆœŒçÇß«»°·]
+(?i)^You strike a clean cut without gathering any material\.$
+(?i)^You consume a Forester's ration to fuel a mighty chop\.$
+(?i)^Some yew leaves fall to the ground and you place them into your Forestry kit\.$
+(?i)^You have a sneaking suspicion that you would have received a beginner scroll box\.$
+(?i)^You swing your axe at the tree\.$
+(?i)^You clean the Grimy ranarr weed\.$
